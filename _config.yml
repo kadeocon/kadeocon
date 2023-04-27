@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Kade O'Connor | Visual Designer
+title               : Kade O'Connor | Visual Design
 description         : Publication design & accessibility
 baseurl             : "/kadeocon"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : kadeocon/kadeocon     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
