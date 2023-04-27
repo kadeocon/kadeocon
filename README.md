@@ -7,7 +7,7 @@
 - 🥷🏻 Martial Artist
 - 🗣 Designing for Accessibility
 
-See my [LinkedIn] (https://www.linkedin.com/in/kadeo/).
+See my [LinkedIn]([url](https://www.linkedin.com/in/kadeo/)).
 <!--
 **kadeocon/kadeocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
