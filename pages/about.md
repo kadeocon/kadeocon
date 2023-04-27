@@ -7,8 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I'm **{{ site.author.name }}** :wave:,<br>
+I translate ideas into appealing graphics and visuals, guiding clients to effectively communicate with their audiences.
+At this time in my life, I’m interested in growing my career as an in-house creative, and wish to do more work with digital products and to continue to expand my breadth of media experience. I’m also interested in select freelance opportunities, and pro bono projects for causes and organizations I care about. 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
