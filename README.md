@@ -1,5 +1,10 @@
 ### Hi there 👋
+##teaching myself some github basics
+Putting together a GitHub Pages site for my latest portfolio iteration
 
+- 🏳️‍⚧️ He/Him
+- 🧑🏻‍🎨 Visual Designer
+- 🥷🏻 Martial Artist
 <!--
 **kadeocon/kadeocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
