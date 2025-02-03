@@ -2,9 +2,9 @@
 ## teaching myself some github basics
 *Putting together a GitHub Pages site for my latest portfolio iteration*
 
-- 🏳️‍⚧️ He/Him
+- 😄 He/Him
 - 🧑🏻‍🎨 Visual Designer
-- 🥷🏻 Martial Artist
+- 📜 Scripts for InDesign
 - 🗣 Designing for Accessibility
 
 See my [LinkedIn](https://www.linkedin.com/in/kadeo/).
